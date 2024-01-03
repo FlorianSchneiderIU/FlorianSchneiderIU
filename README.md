@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a mathematics professor at IU International University of Applied Sciences in Germany with a deep interest in numerical methods, particularly for partial differential equations, computer graphics and AI.
+
+- 🔭 I’m currently working on a paper for general first-order mixed moment Kershaw closures in slab geometry
+- 👯 I’m looking to collaborate on interesting mathematical problems in the field of hyperbolic PDEs, computer graphics or AI
+- 📫 How to reach me: florian.schneider(at)iu.org
+
 <!--
 **FlorianSchneiderIU/FlorianSchneiderIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
